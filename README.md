@@ -1,3 +1,5 @@
+Vý: https://learning.oreilly.com/videos/deep-learning-for/9780136620013/9780136620013-DLNL_00_00_00/
+
 # Deep Learning with TensorFlow, Keras, and PyTorch
 
 This repository is home to the code that accompanies [Jon Krohn's](www.jonkrohn.com) *Deep Learning with TensorFlow, Keras, and PyTorch* series of video tutorials. 
